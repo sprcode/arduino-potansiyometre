@@ -14,4 +14,6 @@ Detaylı bilgi ve kod açıklamaları için https://sprcode.com/pot-ile-led-parl
 
 <h2> Bağlantı Şeması </h2>
 
+![pot-led](https://user-images.githubusercontent.com/47007407/52275616-1efd6400-2961-11e9-8a13-c62ff3514b65.png)
+
 
